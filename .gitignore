@@ -2,4 +2,4 @@
 _build
 .venv
 .envrc
-10_apis.ipynb_checkpoints
+.apis
